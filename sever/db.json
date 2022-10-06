@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "abc",
+      "name": "Huy Phan",
+      "photo": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.6435-9/79807754_1959067560905478_3268018702603255808_n.jpg?stp=dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=uuOuphcDfSwAX_gYwCo&_nc_ht=scontent.fsgn2-4.fna&oh=00_AT_GGlxTqTqlC1XNwMZYNK-ZGrrZrZzThYkiBrldnBVqzg&oe=635C484C",
+      "mobile": "+123456789",
+      "email": "huyphan@gmail.com",
+      "company": "Grab",
+      "title": "Grab Bike",
+      "cityId": "3"
+    },
+    {
+      "id": "abcd",
+      "name": "Huy Thanh",
+      "photo": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/280763237_2299900136814893_4401504827917246852_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=INuwX6zJUpsAX-d9kcn&_nc_ht=scontent.fsgn2-5.fna&oh=00_AT_vyikM0S4VJtvlK9AB8EMRO6GQS0gwwIe6WmA7O7VoJA&oe=6341494F",
+      "mobile": "+123456789",
+      "email": "huythanh@gmail.com",
+      "company": "Nals Solution",
+      "title": "Backend",
+      "cityId": "2"
+    },
+    {
+      "id": "abcdef",
+      "name": "Ngoc Tin",
+      "photo": "https://scontent.xx.fbcdn.net/v/t1.15752-9/308983312_1119914218899321_8438694628871663896_n.jpg?stp=dst-jpg_s280x280&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_ohc=qmv51qIiZD8AX8u5I76&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKwZdyEWURvoG4fD3Cy74ZHy7A-xYB7Wjqm5BjXY8j_Nw&oe=636180AD  ",
+      "mobile": "+123456789",
+      "email": "tinbungphe@gmail.com",
+      "company": "Giao Hang Tiet Kiem",
+      "title": "Cod Star",
+      "cityId": "3"
+    },
+    {
+      "name": "Hùng Nguyễn",
+      "photo": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-1/278060314_4958849877513647_9057192792201299929_n.jpg?stp=dst-jpg_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=C5plzm_IiIUAX8IMJxg&_nc_ht=scontent.fsgn2-5.fna&oh=00_AT9wFJJbelJsmPD06lv4hX_0tB27GU6hrTRvMYAaWIwgXQ&oe=6343D853",
+      "mobile": "0702693955",
+      "email": "huuhung@gmail.com",
+      "company": "GHTK",
+      "title": "COD",
+      "cityId": "1",
+      "id": "RRLD-tK"
+    }
+  ],
+  "citys": [
+    {
+      "id": "1",
+      "city": "Da Nang"
+    },
+    {
+      "id": "2",
+      "city": "Hue"
+    },
+    {
+      "id": "3",
+      "city": "Ho Chi Minh"
+    }
+  ]
+}
